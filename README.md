@@ -1,9 +1,10 @@
 # ptut2021-2022_DUPUY_FAUCHER_GOETSCHEL_NOURRISSON
 
-**OM2M-Architecture**
+**OM2M-Architecture.zip**
 - Get.py: Permet de récuperer les données de OM2M
 - PostApplication.py: Permet de créer une application
 - PostDescriptor.py: Permet de créer un descripteur 
+
 **OM2M-FitbitStudio.zip**
 
 
@@ -13,4 +14,5 @@
 Pour utiliser le module grove, il faut importer les dépendances qui permettent une manipulation facile des donénes récupérées par les capteurs. La commande doit etre tapée: </p>
   curl -sL https://github.com/Seeed-Studio/grove.py/raw/master/install.sh | sudo bash -s - <br>
 <br>
-- Temp_Humidty.py: Permet de recupérer les données d'humidité et de température ambiante
+
+  - Temp_Humidty.py: Permet de recupérer les données d'humidité et de température ambiante
