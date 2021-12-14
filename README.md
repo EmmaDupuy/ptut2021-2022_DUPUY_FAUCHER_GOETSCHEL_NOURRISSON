@@ -10,7 +10,7 @@
 
 **OM2M-Rasbperry.zip**
 
-<p> Les requetes python s'adresse au localhost, pour accéder à OM2M depuis la carte Raspberry il suffit d'ajouter l'adresse IP du serveur hébergeant OM2M <br>
+<p> Les requetes python s'adressent au localhost, pour accéder à OM2M depuis la carte Raspberry il suffit d'ajouter l'adresse IP du serveur hébergeant OM2M <br>
 Pour utiliser le module grove, il faut importer les dépendances qui permettent une manipulation facile des donénes récupérées par les capteurs. La commande doit etre tapée: </p>
   curl -sL https://github.com/Seeed-Studio/grove.py/raw/master/install.sh | sudo bash -s - <br>
 <br>
